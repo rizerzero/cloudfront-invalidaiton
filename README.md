@@ -1,4 +1,4 @@
-# cloudfront-invalidaiton
+# aws cloudfront invalidaiton
 CloudFront invalidation using aws cli command line
 
 ### Pre-requisites: 
